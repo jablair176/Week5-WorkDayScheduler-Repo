@@ -37,9 +37,7 @@ THEN the saved events persist
 - When refressing the page, saved text will remain.
 - Simply delete text and click save button to remove text. 
 
-```md
-![Screenshot](<Screenshot 2023-09-25 at 5.00.19 AM.png>)
-```
+![Screenshot](Screenshot-scheduler.png)
 
 ## Link 
 
